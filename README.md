@@ -5,7 +5,7 @@
 <br><br>
 
 <a href="https://github.com/nbbb15092/abc">
-  <img src="https://dbv5.pages.dev/IMG-20251212-WA0148(1).jpg" alt="ASITHA MD Banner" width="95%" style="border-radius: 20px; border: 4px solid #FF0000; box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);">
+  <img src="https://dbv5.pages.dev/IMG-20251212-WA0148(1).jpg" alt="ABHEE MD Banner" width="95%" style="border-radius: 20px; border: 4px solid #FF0000; box-shadow: 0 0 40px rgba(255, 0, 0, 0.6);">
 </a>
 
 <br><br>
@@ -94,5 +94,5 @@
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:FF0000,100:8B0000&height=120&section=footer&text=Thank%20You!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70&desc=©%202025%20ASITHA-MD%20V6&descAlignY=90&descSize=15" width="100%" style="border-radius: 15px;"/>
-text=Thank%20You!&...&desc=©%202025%20ASITHA-MD%20V6`
+text=Thank%20You!&...&desc=©%202025%20ABHEE-MD%20V6`
 </div>
