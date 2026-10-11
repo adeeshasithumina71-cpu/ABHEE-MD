@@ -1,13 +1,13 @@
 {
-"name": "ASITHA-MD",
+"name": "ABHEE-MD",
 "version": "6.0.0",
 "description": "A WhatsApp bot created using Node.js",
 "main": "start.js",
   "type": "commonjs",
   "scripts": {
     "start": "pm2 start start.js --deep-monitoring --attach --name ASITHA-MD",
-    "stop": "pm2 stop ASITHA-MD",
-    "restart": "pm2 restart ASITHA-MD"
+    "stop": "pm2 stop ABHEE-MD",
+    "restart": "pm2 restart ABHEE-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "latest",
